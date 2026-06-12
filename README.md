@@ -346,7 +346,7 @@ Pursuing a Bachelor of Technology with focus on signal processing, embedded syst
 
 <div align="center">
 
-![Snake animation](https://github.com/harshalyadav/harshalyadav/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Harshal-yad/Harshal-yad/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
